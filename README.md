@@ -10,6 +10,6 @@ Extensions for TIA Portal's TSEND_C
 ## Features
   * allows the user to enter ip address as a string format xxx.xxx.xxx.xxxx
   * allows the user to enter port number as string e.g. '1234'  
-  * provides web app that displays communications debuggin information
+  * provides web app that displays communications debuging information
     * under './UserFiles/Web'
   
